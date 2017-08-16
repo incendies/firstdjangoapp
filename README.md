@@ -1,0 +1,2 @@
+# firstdjangoapp
+djangoapplive
