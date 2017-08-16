@@ -25,7 +25,7 @@ SECRET_KEY = 'q8=z9*vo8&0@sp40-u0^q#^@d$w-%$n-=kd2v#+!-w7yh4^0xw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['incendies.pythonanywhere.com']
 
 
 # Application definition
